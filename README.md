@@ -7,6 +7,7 @@
 * Qué es y cómo usar **Netcat** en termux.
 * Crea una **bind shell**.
 * Crea una **reverse shell**.
+* **Transfiere archivos** entre tú y la víctima.
 * Aprende un par de **guías útiles**.
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
