@@ -3,11 +3,10 @@
 ## Menú Principal :
 ![Screenshot_20210706-132522_Termux](https://user-images.githubusercontent.com/81049859/124642804-4290a580-de5e-11eb-8e1b-8cdc87256be5.png)
 
-
-## MsfCj7 :
-* Instala **Metasploit** correctamente y sin errores.
-* Crea automáticamente tus **payloads**.
-* Crea automáticamente una **persistencia**.
+## NetcatCj7:
+* Qué es y cómo usar **Netcat** en termux.
+* Crea una **blind shell**.
+* Crea una **reverse shell**.
 * Aprende un par de **guías útiles**.
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
@@ -29,13 +28,13 @@ https://github.com/Juliocj7/UtilsCj7
 
 * ` apt install pv `
 
-* ` git clone https://github.com/Juliocj7/MsfCj7 `
+* ` git clone https://github.com/Juliocj7/NetcatCj7 `
 
-* ` cd MsfCj7 `
+* ` cd NetcatCj7 `
 
-* ` chmod 777 MsfCj7 `
+* ` chmod 777 NetcatCj7 `
 
-* ` bash MsfCj7 `
+* ` bash NetcatCj7 `
 
 # --------------------
 
