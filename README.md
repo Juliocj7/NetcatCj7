@@ -1,6 +1,7 @@
 <h1 align="center"><a href="https://github.com/Juliocj7"><img title="Author" src="https://img.shields.io/badge/Author-⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣-svg?style=for-the-badge&logo=github"></a></h1>
 
 ## Menú Principal :
+![Screenshot_20210706-132522_Termux](https://user-images.githubusercontent.com/81049859/124642804-4290a580-de5e-11eb-8e1b-8cdc87256be5.png)
 
 
 ## MsfCj7 :
