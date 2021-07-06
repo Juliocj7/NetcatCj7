@@ -5,7 +5,7 @@
 
 ## NetcatCj7:
 * Qué es y cómo usar **Netcat** en termux.
-* Crea una **blind shell**.
+* Crea una **bind shell**.
 * Crea una **reverse shell**.
 * Aprende un par de **guías útiles**.
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
