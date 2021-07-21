@@ -1,7 +1,6 @@
 <h1 align="center"><a href="https://github.com/Juliocj7"><img title="Author" src="https://img.shields.io/badge/Author-⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣-svg?style=for-the-badge&logo=github"></a></h1>
 
 ## Menú Principal :
-![Screenshot_20210715-142630_Termux](https://user-images.githubusercontent.com/81049859/125838911-c1dcb35f-a78c-4dd4-a7f2-0d4e6fb5091c.png)
 
 ## NetcatCj7:
 * Qué es y cómo usar **Netcat** en termux.
