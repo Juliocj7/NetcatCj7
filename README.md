@@ -22,10 +22,12 @@ bash NetcatCj7 -i <IP> -p <PORT> -t <ShellReverse> `
 * IP >> Host para la reverse shell
 * PORT >> Puerto de escucha
 * ShellReverse >> Tipo de shell reversa a generar.
-Están disponibles las siguientes:
+* Están disponibles las siguientes:
 
--t netcat                                               -t perl
--t bash                                                 -t ruby
+-t netcat
+-t perl
+-t bash
+-t ruby
 -t python
 -t golang
 -t php
