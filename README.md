@@ -25,12 +25,19 @@ bash NetcatCj7 -i <IP> -p <PORT> -t <ShellReverse> `
 * Están disponibles las siguientes:
 
 -t netcat
+
 -t perl
+
 -t bash
+
 -t ruby
+
 -t python
+
 -t golang
+
 -t php
+
 -t powershell
 
 ## Instalación :
