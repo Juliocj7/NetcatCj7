@@ -11,7 +11,7 @@
 * Aprende un par de **guías útiles**.
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
-## Generador de backdoor:
+## Generador de backdoor :
 * bash NetcatCj7 -h
 * Sintaxis
 - > ` bash NetcatCj7 -i <IP> -p <PORT> -t <ShellReverse> `
