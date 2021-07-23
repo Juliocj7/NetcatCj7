@@ -3,13 +3,28 @@
 ## Menú Principal :
 ![Screenshot_20210723-141951_Termux](https://user-images.githubusercontent.com/81049859/126825081-fdc83d24-3c81-4390-bc82-1984a0fb4994.png)
 
-## NetcatCj7:
+## NetcatCj7 :
 * Qué es y cómo usar **Netcat** en termux.
-* Crea una **bind shell**.
-* Crea una **reverse shell**.
+* Crea una **bind shell** y una **reverse shell**.
 * **Transfiere archivos** entre tú y la víctima.
+* Genera **backdoor** automáticamente en varios lenguajes.
 * Aprende un par de **guías útiles**.
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
+
+## Generador de backdoor: bash NetcatCj7 -h
+* Sintaxis
+- > ` bash NetcatCj7 -i <IP> -p <PORT> -t <ShellReverse> `
+
+* IP >> Host para la reverse shell
+* PORT >> Puerto de escucha
+* ShellReverse >> Tipo de shell reversa a generar, Están disponibles las siguientes:
+
+-t netcat                                               -t perl
+-t bash                                                 -t ruby
+-t python
+-t golang
+-t php
+-t powershell
 
 ## Instalación :
 
