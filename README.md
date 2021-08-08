@@ -9,6 +9,7 @@
 * **Transfiere archivos** entre tú y la víctima.
 * Genera **backdoor** automáticamente en varios lenguajes.
 * Aprende un par de **guías útiles**.
+* Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
 ## Generador de backdoor :
