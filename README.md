@@ -55,7 +55,7 @@ https://github.com/Juliocj7/UtilsCj7
 
 * ` cd NetcatCj7 `
 
-* ` chmod 777 NetcatCj7 `
+* ` chmod +x * `
 
 * ` bash NetcatCj7 `
 
