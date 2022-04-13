@@ -24,7 +24,9 @@
 
 
 ## Menú Principal :
-![Screenshot_20210808-200004_Termux](https://user-images.githubusercontent.com/81049859/128649829-7724c74c-72fe-451e-a5fa-45d6111ba6f3.png)
+
+
+## Menú de Ataque :
 
 
 ## NetcatCj7 :
