@@ -13,7 +13,6 @@
 
 <p align="center"><img src="https://github.com/Juliocj7/Juliocj7/blob/main/InicioCj72.gif" width="350" height="110"/> </p>
 
-
 <details>
 <summary>  ⸸𝕵𝖚𝖑𝖎𝖔𖤐𝖈𝖏7⸸ </summary>
 <br>
@@ -22,11 +21,8 @@
 
 </details>
 
-
 ## Menú Principal :
 ![Screenshot_20220530-122659_Termux](https://user-images.githubusercontent.com/81049859/171033575-b25fd6b0-f81a-4b7b-b7f0-0d6af3743855.png)
-
-
 
 ## NetcatCj7 :
 * Qué es y cómo usar **Netcat** en termux.
@@ -50,21 +46,14 @@ bash NetcatCj7 -i <IP> -p <PORT> -t <ShellReverse>
 * ShellReverse >> Tipo de shell reversa a generar.
 * Están disponibles las siguientes:
 
--t netcat
-
--t perl
-
--t bash
-
--t ruby
-
--t python
-
--t golang
-
--t php
-
--t powershell
+`-t netcat`
+`-t perl`
+`-t bash`
+`-t ruby`
+`-t python`
+`-t golang`
+`-t php`
+`-t powershell`
 
 ## Instalación :
 
@@ -74,8 +63,9 @@ bash NetcatCj7 -i <IP> -p <PORT> -t <ShellReverse>
 https://github.com/Juliocj7/UtilsCj7
 ~~~
 
-* ` apt update && apt upgrade -y `
-
+```bash
+  yes|pkg update && pkg upgrade
+```
 * ` git clone https://github.com/Juliocj7/NetcatCj7 `
 
 * ` cd NetcatCj7 `
