@@ -28,8 +28,8 @@
 * Qué es y cómo usar **Netcat** en termux.
 * Crea una **bind shell** y una **reverse shell**.
 * **Transfiere archivos** entre tú y la víctima.
-* Genera **backdoor** automáticamente en varios lenguajes.
-* Aprende un par de **guías útiles**.
+* Genera un **backdoor** automáticamente en varios lenguajes.
+* Aprende útiles y prácticas **guías**.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
