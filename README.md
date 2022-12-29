@@ -23,7 +23,7 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20220530-122659_Termux](https://user-images.githubusercontent.com/81049859/171033575-b25fd6b0-f81a-4b7b-b7f0-0d6af3743855.png)
+![Screenshot_20221228-230859_Termux](https://user-images.githubusercontent.com/81049859/209901197-230fd965-7b39-45a9-a593-1357608a9a75.png)
 
 ## NetcatCj7 :
 * Qué es y cómo usar **Netcat** en termux.
