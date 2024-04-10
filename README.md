@@ -23,7 +23,7 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20230828_220739_Termux](https://github.com/Juliocj7/NetcatCj7/assets/81049859/f1b8c34b-5762-49b1-bd13-bbc68905b606)
+![1000328514](https://github.com/Juliocj7/NetcatCj7/assets/81049859/a301a6a1-12a5-4032-8a7a-9d79cca19d37)
 
 ## NetcatCj7 :
 * Qué es y cómo usar **Netcat** en termux.
@@ -35,27 +35,17 @@
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
 ## Generador de backdoor :
-* bash NetcatCj7 -h
+* Ayuda
+~~~
+bash NetcatCj7 -h
+~~~
 * Sintaxis
-
 ~~~
 bash NetcatCj7 -i <IP> -p <PORT> -t <ShellReverse>
 ~~~
 
-* IP: Host para la reverse shell
-* PORT: Puerto de escucha
-* ShellReverse: Tipo de shell reversa a generar.
-* Están disponibles las siguientes:
-
-`-t socat`<br>
-`-t netcat`<br>
-`-t perl`<br>
-`-t bash`<br>
-`-t ruby`<br>
-`-t python`<br>
-`-t golang`<br>
-`-t php`<br>
-`-t powershell`
+> [!NOTE]
+> Tipos de shell reversa disponibles en opción -t: `socat` `netcat` `perl` `bash` `ruby` `python` `golang` `php` `powershell`
 
 ## Instalación :
 
