@@ -44,20 +44,17 @@ bash NetcatCj7 -h
 bash NetcatCj7 -i <IP> -p <PORT> -t <ShellReverse>
 ~~~
 
-> [!NOTE]
+> [!TIP]
 > Tipos de shell reversa disponibles en opción -t: `socat` `netcat` `perl` `bash` `ruby` `python` `golang` `php` `powershell`
 
 ## Instalación :
-
-* Para un correcto funcionamiento de la herramienta porfavor instale los [recursos básicos](https://github.com/Juliocj7/UtilsCj7) para termux :
-
-~~~
-https://github.com/Juliocj7/UtilsCj7
-~~~
+> [!NOTE]  
+> Para un correcto funcionamiento de esta herramienta porfavor instale los • [recursos básicos](https://github.com/Juliocj7/UtilsCj7) • para termux.
 
 ```bash
-  yes|pkg update && pkg upgrade
+  yes|apt update && apt upgrade
 ```
+
 * ` git clone https://github.com/Juliocj7/NetcatCj7 `
 
 * ` cd NetcatCj7 `
