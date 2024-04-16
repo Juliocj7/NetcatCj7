@@ -46,7 +46,7 @@ ______________________________________________________
 ![1000328514](https://github.com/Juliocj7/NetcatCj7/assets/81049859/a301a6a1-12a5-4032-8a7a-9d79cca19d37)
 
 ## NetcatCj7 :
-* Qué es y cómo usar **Netcat** en termux.
+* Guía super completa del uso de **Netcat** en Termux.
 * Crea una **bind shell** o una **reverse shell** y transfiere **archivos** entre la víctima y tú.
 * Generador automático de **backdoor** en varios lenguajes.
 * Aprende útiles y prácticas **guías**.
