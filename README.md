@@ -47,41 +47,41 @@ ______________________________________________________
 
 ## NetcatCj7 :
 * Qué es y cómo usar **Netcat** en termux.
-* Crea una **bind shell** y una **reverse shell**.
-* **Transfiere archivos** entre tú y la víctima.
-* Genera un **backdoor** automáticamente en varios lenguajes.
+* Crea una **bind shell** o una **reverse shell** y transfiere **archivos** entre la víctima y tú.
+* Generador automático de **backdoor** en varios lenguajes.
 * Aprende útiles y prácticas **guías**.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
 ## Uso :
-* Ayuda
-~~~
-bash NetcatCj7 -h
-~~~
-* Sintaxis
-~~~
-bash NetcatCj7 -i <IP> -p <PORT> -t <ShellReverse>
-~~~
+* Ayuda:
+```shell
+./NetcatCj7 -h, --help
+```
+* Sintaxis:
+```shell
+./NetcatCj7 -i <IP> -p <PORT> -t <ShellReverse>
+```
 
-> [!TIP]
-> Tipos de shell reversa disponibles en opción -t: `socat` `netcat` `perl` `bash` `ruby` `python` `golang` `php` `powershell`
+> Opciones en <-t>:
+> > `socat` `netcat` `perl` `bash` `ruby` `python` `golang` `php` `powershell`
 
 ## Instalación :
 > [!NOTE]  
 > Para un correcto funcionamiento de esta herramienta porfavor instale los • [recursos básicos](https://github.com/Juliocj7/UtilsCj7) • para termux.
 
-```bash
-  yes|apt update && apt upgrade
+###### 01. Actualizar paquetes
+```shell
+yes|{apt update && apt upgrade}
 ```
-
-* ` git clone https://github.com/Juliocj7/NetcatCj7 `
-
-* ` cd NetcatCj7 `
-
-* ` chmod +x * `
-
-* ` bash NetcatCj7 `
+###### 02. Clonar repositorio
+```shell
+gh repo clone Juliocj7/NetcatCj7
+```
+###### 03. Ahora disfruta xD
+```shell
+cd NetcatCj7 && chmod +x * && ./NetcatCj7
+```
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
