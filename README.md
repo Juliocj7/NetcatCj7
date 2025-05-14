@@ -42,7 +42,7 @@
 </div>
 
 ## Menú Principal :
-![1000328514](https://github.com/Juliocj7/NetcatCj7/assets/81049859/a301a6a1-12a5-4032-8a7a-9d79cca19d37)
+[![1000328514](https://github.com/user-attachments/assets/d126be0e-01a4-4753-b176-59fdc524a04a)](#---)
 
 ## NetcatCj7 :
 * Guía super completa del uso de **netcat** en termux.
@@ -59,7 +59,7 @@
 ```
 * 𝚂𝚒𝚗𝚝𝚊𝚡𝚒𝚜:
 ```shell
-./NetcatCj7 -i <IP> -p <PORT> -t <ShellReverse>
+./NetcatCj7 -i <𝙸𝙿> -p <𝙿𝙾𝚁𝚃> -t <𝚂𝚑𝚎𝚕𝚕𝚁𝚎𝚟𝚎𝚛𝚜𝚎>
 ```
 
 * 𝙾𝚙𝚌𝚒𝚘𝚗𝚎𝚜 𝚙𝚊𝚛𝚊 -t:
